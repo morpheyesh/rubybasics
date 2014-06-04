@@ -1,3 +1,3 @@
 def print
-	print "Hello world"
+	print "Hey"
 end
