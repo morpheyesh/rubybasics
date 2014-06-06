@@ -1,3 +1,3 @@
 def print
-	print "Hello world"
+	print "Simple ruby print program"
 end
